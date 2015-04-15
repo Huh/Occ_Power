@@ -1,7 +1,7 @@
 ##################################################################
 # Power analysis for occupancy studies under imperfect detection
 # Functions
-# Authors: Gurutzeta Guillera-Arroita & Jose J. Lahoz-Monfort
+# Authors Gurutzeta Guillera-Arroita & Jose J. Lahoz-Monfort
 ##################################################################
 
 ## Simulate a detection/non-detection history
