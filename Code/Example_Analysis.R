@@ -1,4 +1,4 @@
-		#  Script to run occupancy model power analyses
+		#  Script to run occupancy model power analyses.
 		#  04/2015
 		#  Josh Nowak
 #################################################################################
